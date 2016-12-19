@@ -31,7 +31,6 @@ services:
       - docker_elk
     depends_on:
       - elasticsearch
-
 networks:
   docker_elk:
     driver: bridge
