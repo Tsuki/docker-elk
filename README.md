@@ -1,4 +1,4 @@
-# Docker ELK stack
+# Docker EMLKG stack
 
 [![Join the chat at https://gitter.im/deviantony/docker-elk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deviantony/docker-elk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -11,6 +11,9 @@ Based on the official images:
 * [elasticsearch](https://registry.hub.docker.com/_/elasticsearch/)
 * [logstash](https://registry.hub.docker.com/_/logstash/)
 * [kibana](https://registry.hub.docker.com/_/kibana/)
+* [MySQL](https://registry.hub.docker.com/_/mysql/)
+* [Grafana](https://hub.docker.com/r/grafana/grafana/)
+
 
 **Note**: Other branches in this project are available:
 
